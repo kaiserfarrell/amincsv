@@ -1,0 +1,16 @@
+{
+  "timeZone": "Asia/Kuala_Lumpur",
+  "dependencies": {},
+  "dataStudio": {
+    "name": "Amin CSV",
+    "logoUrl": "https://raw.githubusercontent.com/kaiserfarrell/amincsv/master/csv.png",
+    "company": "Google Data Studio Developer Relations",
+    "companyUrl": "https://developers.google.com/datastudio/",
+    "addonUrl": "https://github.com/kaiserfarrell/blob/master/amincsv/README.md",
+    "supportUrl": "https://github.com/googledatastudio/community-connectors/issues/new?title=Fetch%20CSV%20Connector%20Issue",
+    "shortDescription": "tarik data dari CSV",
+    "description": "This connector lets users query data from a CSV with the possibility to chose the delimiter and a text qualifier",
+    "authType": ["NONE"],
+    "feeType": ["FREE"]
+  }
+}
